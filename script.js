@@ -142,45 +142,25 @@ texto: "Criar uma imagem utilizando um gerador de imagem
 
 de IA.",
 
-afirmacao: ["Acelerou o processo de criação de trabalhos
-utilizando geradores de imagem e agora consegue ensinar pessoas que
-sentem dificuldades em desenhar manualmente como utilizar também!",
-"Compartilhou artes em redes sociais como forma de
-
-ensinar como se comunicar através da arte.",
-
-"Percebeu que muitas pessoas têm dificuldade em
-expressar suas ideias desenhando e acha que a IA é capaz de empoderar
-essas pessoas a tirarem ideias do papel."
+afirmacao: ["Acelerou o processo de criação de trabalhos utilizando geradores de imagem e agora consegue ensinar pessoas que sentem dificuldades em desenhar manualmente como utilizar também!", "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte." "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
 
 ]
 }
 ]
 },
 {
-enunciado: "Você tem um trabalho em grupo de biologia para
-entregar na semana seguinte, o andamento do trabalho está um pouco
-atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O
-problema é que o trabalho está totalmente igual ao do chat. O que você
+enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda da IA. O problema é que o trabalho está totalmente igual ao do chat. O que você
 faz? ",
 alternativas: [
 {
-texto: "Escrever comandos para o chat é uma forma de
-contribuir com o trabalho, por isso não é um problema utilizar o texto
-inteiro.",
+texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
 
-afirmacao: "Infelizmente passou a utilizar a IA para
-fazer todas suas tarefas e agora se sente dependente da IA para tudo."
+afirmacao: "Infelizmente passou a utilizar a IA para fazer todas suas tarefas e agora se sente dependente da IA para tudo."
 
 },
 {
-texto: "O chat pode ser uma tecnologia muito avançada,
-mas é preciso manter a atenção pois toda máquina erra, por isso revisar o
-trabalho e contribuir com as perspectivas pessoais é essencial.",
-afirmacao: "Percebeu que toda IA reproduz orientações
-baseadas na empresa que programou e muito do que o chat escrevia não
-refletia o que pensava e por isso sabe que os textos gerados pela IA
-devem servir como auxílio e não resultado final. "
+texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+afirmacao: "Percebeu que toda IA reproduz orientações baseadas na empresa que programou e muito do que o chat escrevia não refletia o que pensava e por isso sabe que os textos gerados pela IA devem servir como auxílio e não resultado final. "
 
 }
 ]
